@@ -20,6 +20,6 @@
 
 ```bash
 
-git clone https://github.com/mohitx404/walls-pc.git
+git clone https://github.com/mohitx404/Walls-pc.git
 
 
