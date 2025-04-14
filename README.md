@@ -1,7 +1,7 @@
 <h1 align="center">📁 Anime & Aesthetic Wallpapers</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/yheo1GGu3FwAAAAd/cat-typing.gif" width="250" alt="anime coding cat" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFsOXhmN2t3dmRzMzR1OWx2YnN0ODNzMW8xaHByY3g5ZTkxNWNqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mlBDoVLOGidEc/giphy.gif" width="250" alt="anime wallpaper gif" />
 </p>
 
 <p align="center">
